@@ -6,7 +6,7 @@ Création du nouvelle animation clip-path : au scroll, changement d'image et de 
 
 ## Démonstration
 
-Lien vers le projet :
+Lien vers le projet : https://aperbet56.github.io/nouvelle_animation_clip-path_au_scroll/
 
 ## Projet développé avec
 
