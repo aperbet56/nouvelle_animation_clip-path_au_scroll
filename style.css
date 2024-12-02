@@ -1,0 +1,35 @@
+/**** Reset ****/
+
+*,
+::before,
+::after {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/**** Style général de la page ****/
+
+.box {
+    height: 100vh;
+    clip-path: polygon(0 0, 100% 0, 100% 100%, 0 100%);
+}
+
+.b1 {
+    background-color: rgb(17, 148, 17);
+}
+
+.b2 {
+    background-color: rgb(230, 44, 44);
+}
+
+img {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 400px;
+    height: 600px;
+    object-fit: cover;
+    border-radius: 3px;
+}
